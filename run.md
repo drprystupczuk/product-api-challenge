@@ -50,4 +50,4 @@ target/site/jacoco/index.html
 
 ## 📫 Contacto
 
-Desarrollado por Diego Prystupiuk como parte del challenge técnico de Mercado Libre.
+Desarrollado por Diego Prystupczuk como parte del challenge técnico de Mercado Libre.
