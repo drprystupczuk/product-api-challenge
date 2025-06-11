@@ -1,0 +1,68 @@
+[
+  {
+    "id": "MLA1",
+    "title": "iPhone 13",
+    "description": "Apple iPhone 13, 128GB, Blue",
+    "price": 999.99,
+    "currency": "USD",
+    "pictures": [
+      "https://http2.mlstatic.com/D_12345-MLA0000000000_092023-O.jpg"
+    ],
+    "paymentMethods": ["credit_card", "mercado_pago"],
+    "seller": {
+      "id": "seller123",
+      "name": "SuperStore",
+      "rating": 4.8,
+      "officialStore": true,
+      "totalSales": 12430
+    },
+    "availableStock": 7,
+    "soldQuantity": 320,
+    "warranty": "12 meses",
+    "relatedProductIds": ["MLA2"],
+    "categoryId": "MLA1055",
+    "domainId": "MLA-CELLPHONES",
+    "installmentInfo": {
+      "quantity": 12,
+      "amount": 83.33,
+      "noInterest": true
+    },
+    "shippingInfo": {
+      "text": "Envío gratis",
+      "promiseType": "standard"
+    }
+  },
+  {
+    "id": "MLA2",
+    "title": "Samsung Galaxy S23",
+    "description": "Samsung Galaxy S23, 128GB, Black",
+    "price": 899.99,
+    "currency": "USD",
+    "pictures": [
+      "https://http2.mlstatic.com/D_67890-MLA0000000001_092023-O.jpg"
+    ],
+    "paymentMethods": ["credit_card", "mercado_pago"],
+    "seller": {
+      "id": "seller456",
+      "name": "ElectroMundo",
+      "rating": 4.5,
+      "officialStore": false,
+      "totalSales": 8420
+    },
+    "availableStock": 4,
+    "soldQuantity": 210,
+    "warranty": "6 meses",
+    "relatedProductIds": ["MLA1"],
+    "categoryId": "MLA1055",
+    "domainId": "MLA-CELLPHONES",
+    "installmentInfo": {
+      "quantity": 6,
+      "amount": 150.00,
+      "noInterest": false
+    },
+    "shippingInfo": {
+      "text": "Envío con costo",
+      "promiseType": "express"
+    }
+  }
+]
